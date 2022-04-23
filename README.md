@@ -1,6 +1,6 @@
-# professional-readme-generator
+# Professional README Generator
 
-<h2>User Story</h2>
+# User Story
 
 AS A developer
 
@@ -8,7 +8,7 @@ I WANT a README generator
 
 SO THAT I can quickly create a professional README for a new project
 
-<h2>Acceptance Criteria</h2>
+# Acceptance Criteria
 
 GIVEN a command-line application that accepts user input
 
