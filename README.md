@@ -1,6 +1,6 @@
 # Professional README Generator
 
-# User Story
+## User Story
 
 AS A developer
 
@@ -8,7 +8,7 @@ I WANT a README generator
 
 SO THAT I can quickly create a professional README for a new project
 
-# Acceptance Criteria
+## Acceptance Criteria
 
 GIVEN a command-line application that accepts user input
 
@@ -42,9 +42,9 @@ THEN I am taken to the corresponding section of the README
 
 ![image](https://user-images.githubusercontent.com/98611195/165003321-923c76d8-4ca7-4917-9302-4fa26028b508.png)
 
-# Demo Link
+## Demo Link
 
 <a href="https://drive.google.com/drive/folders/1A3L7rvjrQglLVjq_uswoS1uXdz-g3m8N?usp=sharing">LINK TO DEMO VIDEO ON GOOGLE DRIVE</a>
 
-# Sample of generated README
+## Sample of generated README
 <a href="https://github.com/rvacovsky/professional-readme-generator/blob/main/Develop/README.md">README</a>
