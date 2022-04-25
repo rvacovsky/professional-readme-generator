@@ -2,14 +2,15 @@ function generateMarkdown(data) {
   return `
   # ${data.title}
   
-  https://img.shields.io/badge/license-${data.license}-success.svg
+  ![license](https://img.shields.io/badge/license-${data.license}-success.svg)
 
   <a href="https://opensource.org/licenses/${data.license}">LINK</a>
     
-  # Description
+  ## Description
   ${data.description}
   
-  # Table of Contents
+
+  ## Table of Contents
   - [Installation](#installation)
   - [Usage](#usage)
   - [Credits](#contributors)
@@ -17,31 +18,31 @@ function generateMarkdown(data) {
   - [Testing](#testing)
   
   
-  ## Installation
+  ### Installation
   ${data.installation}
 
 
-  ## Usage
+  ### Usage
   ${data.usage}
 
 
-  ## Contributors
+  ### Contributors
   ${data.contribution}
 
 
-  ## License
+  ### License
   This project is covered under the ${data.license} license. Click the link above to learn more about the license.
 
 
-  ## Testing
+  ### Testing
   ${data.test}
 
 
 
-  # Questions? Contact Me!
-  ## ${data.github}
+  ## Questions? Contact Me!
+  ### ${data.github}
   <a href="https://github.com/${data.github}">GitHub</a>
-  ## Email
+  ### Email
   ${data.email}
 
 
