@@ -34,12 +34,13 @@
 
 
   ### Testing
-  I tested the README generator several times throughout  the build to ensure it was working properly. 
+  I tested the README generator several times throughout the build to ensure it was working properly. 
 
 
 
-  ## Questions? Contact Me!
-  ### rvacovsky
+  ## Questions
+  Please feel free to reach out to me if you have any questions about the project!
+  ### GitHub name: rvacovsky
   <a href="https://github.com/rvacovsky">GitHub</a>
   ### Email
   test@test.com

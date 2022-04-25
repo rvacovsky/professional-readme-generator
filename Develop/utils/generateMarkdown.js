@@ -39,8 +39,9 @@ function generateMarkdown(data) {
 
 
 
-  ## Questions? Contact Me!
-  ### ${data.github}
+  ## Questions
+  Please feel free to reach out to me if you have any questions about the project!
+  ### GitHub name: ${data.github}
   <a href="https://github.com/${data.github}">GitHub</a>
   ### Email
   ${data.email}
