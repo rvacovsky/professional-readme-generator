@@ -42,4 +42,9 @@ THEN I am taken to the corresponding section of the README
 
 ![image](https://user-images.githubusercontent.com/98611195/165003321-923c76d8-4ca7-4917-9302-4fa26028b508.png)
 
+# Demo Link
+
 <a href="https://drive.google.com/drive/folders/1A3L7rvjrQglLVjq_uswoS1uXdz-g3m8N?usp=sharing">LINK TO DEMO VIDEO ON GOOGLE DRIVE</a>
+
+# Sample of generated README
+<a href="https://github.com/rvacovsky/professional-readme-generator/blob/main/Develop/README.md">README</a>
