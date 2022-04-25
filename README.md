@@ -39,3 +39,5 @@ THEN this is added to the section of the README entitled Questions, with instruc
 WHEN I click on the links in the Table of Contents
 
 THEN I am taken to the corresponding section of the README
+
+![image](https://user-images.githubusercontent.com/98611195/165003321-923c76d8-4ca7-4917-9302-4fa26028b508.png)
